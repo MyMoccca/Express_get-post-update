@@ -1,1 +1,4 @@
-# Express_get-post-update
+# Exercice Express :
+- put
+- post
+- update
